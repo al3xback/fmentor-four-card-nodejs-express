@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-four-card-nodejs-express",
 	"version": "1.0.0",
-	"description": "four card project using nodejs with express framework",
+	"description": "four card feature section using nodejs with express framework",
 	"main": "index.js",
 	"scripts": {
 		"start-sass": "sass --watch src/scss/main.scss public/css/main.css",
